@@ -2,7 +2,7 @@ Projektowanie bazy danych
 ==================================================
 
 
-:autor: Dominika Półchłopek
+:Autor: Dominika Półchłopek
 
 Wprowadzenie
 ------------
