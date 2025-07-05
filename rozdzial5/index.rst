@@ -8,7 +8,6 @@ Moje repozyterium zawierające przegląd literatury: https://github.com/Dominika
 Repozyterium grupy w której robiłam przegląd literatury: https://github.com/GrzegorzSzczepanek/repo-wspolne.git
 
 Badania literaturowe:
-
   * Wydajność skalowanie i replikacja: https://github.com/Broksonn/Wydajnosc_Skalowanie_i_Replikacja.git
   * Sprzęt dla bazy danych: https://github.com/oszczeda/Sprzet-dla-bazy-danych.git
   * Konfiguracja baz danych: https://github.com/Chaiolites/Konfiguracja_baz_danych.git
