@@ -1,5 +1,6 @@
 Analiza bazy danych oraz optymalizacja zapytań
 ==============================
+:Autor: - Dominika Półchłopek
 
 Migracja danych między bazami SQLite i PostgreSQL
 ----------------
