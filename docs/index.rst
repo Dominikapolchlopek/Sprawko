@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Sprawko documentation
+Sprawo documentation
 =====================
 
 Add your content using ``reStructuredText`` syntax. See the
@@ -15,3 +15,8 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+   rozdzial1/index
+   rozdzial2/index
+   rozdzial3/index
+   rozdzial4/index
+   rozdzial5/index
