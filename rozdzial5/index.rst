@@ -1,7 +1,7 @@
 Spis wykorzystanych repozytoriów
 ==========
 
-Dokumentacja powstała na podstawie: https://github.com/Dominikapolchlopek/Sprawko.git
+Dokumentacja powstała na podstawie: https://github.com/Dominikapolchlopek/BazyDanych.git
 
 Moje repozyterium zawierające przegląd literatury: https://github.com/Dominikapolchlopek/Przeglad.git
 
