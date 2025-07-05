@@ -15,8 +15,8 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-   rozdzial1/index
-   rozdzial2/index
-   rozdzial3/index
-   rozdzial4/index
-   rozdzial5/index
+   rozdzial1/index.rst
+   rozdzial2/index.rst
+   rozdzial3/index.rst
+   rozdzial4/index.rst
+   rozdzial5/index.rst
