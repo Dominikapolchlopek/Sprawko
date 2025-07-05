@@ -2,7 +2,7 @@ Wprowadzenie
 ==============
 
 
-:autor: Dominika Półchłopek
+:Autor: Dominika Półchłopek
 
 Kurs: Bazy Danych 1
 
